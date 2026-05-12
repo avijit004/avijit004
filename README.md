@@ -207,6 +207,7 @@ interests:
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-avijit004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avijit004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avijit004-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avijit004-ln/)
 
 <br>
 
