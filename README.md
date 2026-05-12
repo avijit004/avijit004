@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bp.jpg" alt="cover" width="100%"/>
+</p>
+
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
