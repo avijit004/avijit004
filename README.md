@@ -23,23 +23,21 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Avijit Datta
-located_in: Kolkata, India 🇮🇳
-education:
-  degree: M.Tech in Artificial Intelligence
-  university: Indian Institute of Technology, Patna
+Name: Avijit Datta
+From: Kolkata, India 🇮🇳
+Education:
+  Degree: B.Tech in Computer Science and Engineering
+  Institute: Netaji Subhash Engineering College, Kolkata
   
-current_focus:
-  - Federated Learning & Privacy-Preserving ML
+  Degree: M.Tech in Artificial Intelligence
+  Institute: Indian Institute of Technology, Patna
+  
+Current_focus:
+  - Machine Learning & Artificial Intelligence
   - Generative AI & Large Language Models
-  - Computer Vision & Pattern Recognition
-  - Design & Analysis of Algorithms
-
-interests:
-  - AI Security & Adversarial Robustness
-  - Wireless Network Intelligence
   - Natural Language Processing
-  - Open Source Contributions
+  - Data Structure and Algorithms
+
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
